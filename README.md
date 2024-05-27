@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋, I'm Mohamed khaled
 
-<!--
-**mohamed44654/mohamed44654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Software Engineer .
 
-Here are some ideas to get you started:
+🌱 Currently learning Angular 17.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Looking to collaborate on Open Source Projects.
+
+📫 Reach me at: mohamedkhaled7688@gmail.com
+
+⚡ Fun fact: I love skating! ⛸️
+
+## Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/mohamed-khaled-96b006267)
+
+## Languages and Tools:
+HTML | CSS | Bootstrap | Git | GitHub | Angular 17
